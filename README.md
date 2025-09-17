@@ -1,6 +1,6 @@
 ### Hi there, I'm Arif Shaikh 👋
 
-I'm a Backend Software Engineer with over 3 years of experience specializing in designing and building scalable, microservices-driven platforms in the Java ecosystem[cite: 2, 5].
+I'm a Backend Software Engineer with over 3 years of experience specializing in designing and building scalable, microservices-driven platforms in the Java ecosystem.
 
 - 🔭 I’m currently working as a Backend Engineer at **Sarvagram Fincare** , architecting backend systems for fintech field operations.
 - 🌱 I’m passionate about distributed systems, real-time data processing with tools like **Kafka**, and optimizing database performance.
@@ -118,7 +118,7 @@ I'm a Backend Software Engineer with over 3 years of experience specializing in 
 
 ## ✨ Featured Project
 
-### TradeXpert - Real-Time Trading Platform [cite: 22]
+### TradeXpert - Real-Time Trading Platform
 
 A secure, simulated trading system built using Java Spring Boot to handle 500+ concurrent trades per second with 99.9% transaction integrity. The platform features a responsive frontend built in React.js with real-time updates via WebSockets.
 
